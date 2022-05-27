@@ -1,2 +1,4 @@
 # TheLastHope
- UnityProject for horror game
+* UnityProject for horror game
+* Genge: Horror
+* Setting: Real World
