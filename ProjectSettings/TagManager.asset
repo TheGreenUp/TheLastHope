@@ -8,17 +8,21 @@ TagManager:
   - footsteps/METAL
   - footsteps/WOOD
   - footsteps/BED
+  - footsteps/TILE
+  - footsteps/CARPET
+  - GameManager
+  - Mimic
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - BlindMonst
   - Water
   - UI
   - Interactable
   - PostProcesing
-  - 
-  - 
+  - Player
+  - Hidden
   - 
   - 
   - 
